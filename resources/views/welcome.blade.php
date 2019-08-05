@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html>
+@extends('layout')
 
-<head>
-    <title></title>
-</head>
+@section('content')
+<h1>My {{ $foo }} Website</h1>
 
-<body>
-
-<h1>Contact Form</h1>
-
-<p>
-    <a href="/contact">Contact</a> us to learn more.
-</p>
-
-</body>
-</html>
+<ul>
+    @foreach ($tasks as $task)
+        <li>{{ $task }}</li>
+    @endforeach
+</ul>
+@endsection

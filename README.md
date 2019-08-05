@@ -9,8 +9,8 @@ Section 1 | Introduction
 
 Section 2 | The Basics
 - [x] 3. Basic Routing
-- [ ] 4. Blade Layout Files
-- [ ] 5. Sending Data to Your Views
+- [x] 4. Blade Layout Files
+- [x] 5. Sending Data to Your Views
 - [ ] 6. Controllers 101
 - [ ] 7. Databases and Migrations
 - [ ] 8. Eloquent, Namespacing, and MVC

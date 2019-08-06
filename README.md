@@ -14,7 +14,7 @@ https://laracasts.com/series/laravel-from-scratch-2018
 - [x] 5. Sending Data to Your Views
 - [x] 6. Controllers 101
 - [x] 7. Databases and Migrations
-- [ ] 8. Eloquent, Namespacing, and MVC
+- [x] 8. Eloquent, Namespacing, and MVC
 - [ ] 9. Directory Structure Review
 - [ ] 10. Form Handling and CSRF Protection
 - [ ] 11. Routing Conventions Worth Following

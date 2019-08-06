@@ -12,7 +12,7 @@ https://laracasts.com/series/laravel-from-scratch-2018
 - [x] 3. Basic Routing
 - [x] 4. Blade Layout Files
 - [x] 5. Sending Data to Your Views
-- [ ] 6. Controllers 101
+- [x] 6. Controllers 101
 - [ ] 7. Databases and Migrations
 - [ ] 8. Eloquent, Namespacing, and MVC
 - [ ] 9. Directory Structure Review

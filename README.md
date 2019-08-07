@@ -31,4 +31,11 @@ https://laracasts.com/series/laravel-from-scratch-2018
 - [ ] 20. When in Doubt
 
 #### Section 4 | Core Concepts
+- [ ] 21. Core Concepts: Service Container and Auto-Resolution
+- [ ] 22. Core Concepts: Service Providers
+- [ ] 23. Core Concepts: Configuration and Environments
+- [ ] 24. A Full Registration System in Seconds
+- [ ] 25. Core Concepts: Middleware
+- [ ] 26. You May Only View Your Projects
+
 #### Section 5 | Intermediate Laravel

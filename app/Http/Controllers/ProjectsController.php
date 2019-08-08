@@ -8,11 +8,15 @@ use Illuminate\Http\Request;
 class ProjectsController extends Controller
 {
     public function index() {
-
         $projects = Project::all();
+        return view('projects.index', ['projects' => $projects]);
+    }
 
-        return view('projects.index', compact('projects'));
+    public function create() {
+        return view('projects.create');
+    }
 
-//        return view('projects.index', ['projects' => $projects]);
+    public function store() {
+        return request()->all();
     }
 }

@@ -17,6 +17,11 @@ class ProjectsController extends Controller
     }
 
     public function store() {
-        return request()->all();
+        $project = new Project();
+        $project->title = request('title');
+        $project->description = request('description');
+        $project->save();
+
+        return redirect('/projects');
     }
 }

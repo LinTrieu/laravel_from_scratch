@@ -16,7 +16,7 @@ https://laracasts.com/series/laravel-from-scratch-2018
 - [x] 7. Databases and Migrations
 - [x] 8. Eloquent, Namespacing, and MVC
 - [x] 9. Directory Structure Review
-- [ ] 10. Form Handling and CSRF Protection
+- [x] 10. Form Handling and CSRF Protection
 - [ ] 11. Routing Conventions Worth Following
 - [ ] 12. Faking PATCH and DELETE Requests
 - [ ] 13. Form Delete Requests
